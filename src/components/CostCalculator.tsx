@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Calculator, Users, Car, ShoppingCart, Heart } from 'lucide-react';
+import { Calculator, Users, Car, ShoppingCart, Heart, Home } from 'lucide-react';
 
 export const CostCalculator = () => {
   const [householdSize, setHouseholdSize] = useState(2);
